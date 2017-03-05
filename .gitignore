@@ -1,0 +1,10 @@
+# Ignore compiled python files
+*.pyc
+# vim editor metadata
+*~
+*.swp
+# any documents
+*.pdf
+# any hidden files
+.*
+# any images
